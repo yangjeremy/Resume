@@ -42,7 +42,7 @@
 - 图片加载采用 自写 lazyload，对于滚动优化使用 自写 throttle 函数进行节流，优化页面性能
 
 
-**Node.js在线备忘录** [效果预览](yangjeremy.xyz)   [代码预览](https://github.com/yangjeremy/sticky-node-2)
+**Node.js在线备忘录** [效果预览](yangjeremy.xyz)   [代码预览](https://github.com/yangjeremy/web-note)
 
 - 技术栈：node.js、Express 、sqlite3 、webpack
 
