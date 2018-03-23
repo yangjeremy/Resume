@@ -1,8 +1,8 @@
-
+﻿
 ## 简历（响应式web版、psd版）
 
 
-
+[线上预览](https://yangjeremy.github.io/Resume/index.html)
 
 
 #### 打印方法
